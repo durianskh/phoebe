@@ -1,0 +1,16 @@
+logback
+logs
+target
+*.iml
+.project
+.setting
+*.class
+.DS_Store
+.idea
+.settings
+.classpath
+/target
+app.log.dir_IS_UNDEFINED
+*.log
+out
+banner.txt
