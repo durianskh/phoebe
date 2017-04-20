@@ -5,5 +5,5 @@ package me.durian.lisp.core;
  * <p>
  * atom is a sequence of letters
  */
-public interface Atom {
+public interface CoreAtom {
 }

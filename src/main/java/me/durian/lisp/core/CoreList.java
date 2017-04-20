@@ -5,5 +5,5 @@ package me.durian.lisp.core;
  * <p>
  * list is zero or more expressions separated by whitespace and enclosed by parentheses
  */
-public interface LList {
+public interface CoreList {
 }
