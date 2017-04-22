@@ -1,9 +1,11 @@
-package me.durian.lisp.core;
+package me.durian.lisp.type;
+
+import me.durian.lisp.core.Identifier;
 
 /**
  * Created by durianskh on 4/21/17.
  * <p>
  * When an identifier appears as a literal or within a literal, it is being used to denote a symbol
  */
-public interface Symbol extends Identifier {
+public interface TypeSymbol extends Identifier {
 }
