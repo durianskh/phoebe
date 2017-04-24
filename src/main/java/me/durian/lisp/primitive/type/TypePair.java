@@ -1,4 +1,4 @@
-package me.durian.lisp.type;
+package me.durian.lisp.primitive.type;
 
 /**
  * Created by durianskh on 4/22/17.

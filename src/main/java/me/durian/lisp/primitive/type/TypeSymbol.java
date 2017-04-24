@@ -1,4 +1,4 @@
-package me.durian.lisp.type;
+package me.durian.lisp.primitive.type;
 
 import me.durian.lisp.core.Identifier;
 
