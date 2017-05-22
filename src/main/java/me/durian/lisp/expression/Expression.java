@@ -1,4 +1,4 @@
-package me.durian.lisp.core;
+package me.durian.lisp.expression;
 
 /**
  * Created by durianskh on 4/19/17.
